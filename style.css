@@ -4,9 +4,23 @@
 }
 
 #projects {
-  background-color: #bfc6d1;
+  background-color: #44669d;
 }
 
 section {
   padding-top: 5rem;
+}
+.navbar-brand {
+  color: rgb(255, 255, 255) !important;
+}
+.navbar-link {
+  color: rgb(21, 18, 197) !important;
+}
+.nav-link:hover {
+  color: rgb(216, 33, 33) !important;
+}
+@media (max-width: 668px) {
+  .nav-link {
+    text-align: right;
+  }
 }
