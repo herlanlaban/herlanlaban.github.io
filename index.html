@@ -7,6 +7,8 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" < link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+    <!-- AOS -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <!-- My css -->
     <link rel="stylesheet" href="style.css" />
     <title>Herlan Silaban</title>
@@ -28,7 +30,7 @@
               <a class="nav-link" href="#about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#projects">Project</a>
+              <a class="nav-link" href="#projects">Story</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#contact">Contact</a>
@@ -43,7 +45,7 @@
     <section class="jumbotron text-center">
       <img src="img/PicsArt_05-11-09.07.08.jpg" alt="herlan silaban" width="200" class="rounded-circle img-thumbnail" />
       <h1 class="display-4">Herlan Silaban</h1>
-      <p class="lead">Mahasiswa|Pangula</p>
+      <p class="lead"></p>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
           fill="#ffff"
@@ -60,14 +62,21 @@
         <div class="row text-center mb-3">
           <div class="col">
             <h2>Tentang Saya</h2>
+            <img src="img/poto3.jpg" alt="herlan silaban" width="150" class="rounded-circle img-thumbnail" />
           </div>
         </div>
         <div class="row justify-content-center fs-5 text-center">
-          <div class="col-md-4">
-            <p>besok di isi</p>
+          <div class="col-md-4" data-aos="fade-right" data-aos-duration="1000">
+            <p>
+              Haii!! Perkenalkan namaku Herlan Silaban, saat ini berstatus jomblo ehhhh mahasiswa maksud saya. Umur kepala dua dan aktivitas sehari-hari belajar. Hobi saya belajar (eakkk wkkw) dan yang menjadi makanan kesukaan saya yaitu
+              [C6H12O6]n, dan minuman kesukaan H2O. Hidup dengan sebuah motto yaitu " Bernafas untuk hidup dan hidup untuk bermanfaat, jika hidupmu tak bermanfaat maka jangan bernafas !"
+            </p>
           </div>
-          <div class="col-md-4">
-            <p>ini juga</p>
+          <div class="col-md-4" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
+            <p>
+              Website ini dibuat dengan bootstrap v5.0 dengan tujuan sebagai media curahan pemikiran-pemikiran gila saya. Kamu dapat memberikan saya pesan atau saran bahkan kritikan di slide paling bawah halaman ini. Jika perlu dibalas akan
+              saya balas lewat email. Happy Reading dan semoga harimu dipenuhi hormon dopamin.
+            </p>
           </div>
         </div>
       </div>
@@ -83,33 +92,40 @@
     <!-- project -->
     <section id="projects">
       <div class="container">
-        <div class="row text-center mb-3">
+        <div class="row text-center mb-3 fst-italic text-light">
           <div class="col">
-            <h2>My Project</h2>
+            <h2>My Story</h2>
           </div>
         </div>
-        <div class="row">
+        <div class="row justify-content-center">
           <div class="col-md-4 mb-3">
-            <div class="card">
-              <img src="img/projects/1.jpg" class="card-img-top" alt="Project 1" />
-              <div class="card-body">
-                <p class="card-text">hehe</p>
+            <div class="card" data-aos="flip-left" data-aos-duration="500">
+              <img src="img/projects/A.jpg" class="card-img-top" alt="Project 1" />
+              <div class="card-body card-center">
+                <h6 class="card-title text-end font-monospace">01-04-22</h6>
+                <h5 class="card-title text-center">Embun dan Takdir</h5>
+
+                <p class="card-text">
+                  Apakah kamu percaya bahwa embun itu ditarik oleh bumi untuk jatuh ke pelukannya? itulah pertanyaan yang ada dalam kepala seorang pemuda yang baru saja pulang dari kebun. Selama perjalanan pulang pertanyaan itulah yang
+                  mengiringi langkahnya, dia memiliki pemikiran jika bumi lah yang menarik embun itu untuk jatuh. Lalu apa hubungannya denganku? dia bertanya pada otak kecilnya sembari menggerakkan dahi dan bibirnya ke arah bawah. Atau
+                  apakah dunia ini ada dalam dua sisi, yang artinya ketika kita berada dalam gelap maka terang akan berusaha menarik kita, ketika kita berada dalam kebaikan maka kejahatan akan selalu berusaha menggoda kita? Pernyataan lain,
+                  ketika kita cantik/tampan maka jelek akan selalu menanti kita di depan mata, ketika bodoh maka pintar selalu menunggu kita ? pemuda itu pun menghentikan langkahnya sejenak lalu menatap langit sambil mendengar ocehan bodoh
+                  otaknya. "ahhh bukankah manusia bisa memilih sebuah keputusan yang terbaik bagi dirinya sendiri ? Tapi bagaimana dengan embun yang hampir jatuh tadi, apakah dia bisa memilih untuk tidak jatuh? atau itu yang disebut dengan
+                  takdir? " otak pemuda itu pun tiba-tiba berhenti karna keingat mantan kwkwk. Konon katanya pertanyaan itu masih dia pertanyakan sampai hari ini.
+                </p>
               </div>
             </div>
           </div>
+        </div>
+        <div class="row justify-content-center">
           <div class="col-md-4 mb-3">
-            <div class="card">
-              <img src="img/projects/2.jpg" class="card-img-top" alt="Project 2" />
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-3">
-            <div class="card">
-              <img src="img/projects/4.jpg" class="card-img-top" alt="Project 3" />
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div class="card" data-aos="flip-left" data-aos-duration="500">
+              <img src="img/projects/B.jpg" class="card-img-top" alt="Project 1" />
+              <div class="card-body card-center">
+                <h6 class="card-title text-end font-monospace">none</h6>
+                <h5 class="card-title text-center">none</h5>
+
+                <p class="card-text">diisi apa yahh?</p>
               </div>
             </div>
           </div>
@@ -177,6 +193,22 @@
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init({
+        once: true,
+      });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.0/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.0/TextPlugin.min.js"></script>
+    <script>
+      gsap.registerPlugin(TextPlugin);
+      gsap.to(".lead", { duration: 2, delay: 1.5, text: "Mahasiswa | Pangula" });
+      gsap.from(".jumbotron img", { duration: 1, y: -100, opacity: 0, ease: "bounce" });
+      gsap.from(".navbar", { duration: 1.5, y: "-100%", opacity: 0, ease: "bounce " });
+      gsap.from(".display-4", { duration: 1, y: "-50%", opacity: 0, delay: 1, ease: "back " });
+    </script>
+
     <script>
       const scriptURL = "https://script.google.com/macros/s/AKfycbxdapMh0CekYP7p5BMfbK1T5qC4aKZByfhZ9caxio1GU5uYr_WwTJSxg8FhuGgkdJuZWg/exec";
       const form = document.forms["Herlan-contact-form"];
