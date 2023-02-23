@@ -30,7 +30,7 @@
               <a class="nav-link" href="#about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#projects">Story</a>
+              <a class="nav-link" href="#projects">Projects</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#contact">Contact</a>
@@ -68,14 +68,14 @@
         <div class="row justify-content-center fs-5 text-center">
           <div class="col-md-4" data-aos="fade-right" data-aos-duration="1000">
             <p>
-              Haii!! Perkenalkan namaku Herlan Silaban, saat ini berstatus mahasiswa. Umur kepala dua dan aktivitas sehari-hari melakukan yang terbaik. saya memiliki hobi mengamati dan memikirkan, dan yang menjadi makanan kesukaan saya
-              yaitu [C6H12O6]n, dan minuman kesukaan H2O. Hidup dengan sebuah motto yaitu " Bernafas untuk hidup dan hidup untuk bermanfaat, jika hidupmu tak bermanfaat maka apa gunanya bernafas?"
+              Haii!! Perkenalkan namaku Herlan Silaban, saat ini berstatus mahasiswa. Saya lahir tahun 2001 di daerah doloksanggul, dan besar di doloksanggul. aktivitas sehari-hari yaitu mengikuti perkuliahan dan mengikuti event-event yang ada. saya memiliki hobi mengamati dan memikirkan,
+               .Hidup dengan sebuah motto yaitu " Bernafas untuk hidup dan hidup untuk bermanfaat, jika hidupmu tak bermanfaat maka apa gunanya bernafas?"
             </p>
           </div>
           <div class="col-md-4" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
             <p>
-              Website ini dibuat dengan bootstrap v5.0 dengan tujuan sebagai media curahan pemikiran-pemikiran gila penulis. Kamu dapat memberikan saya pesan atau saran bahkan kritikan di slide paling bawah halaman ini. Jika perlu dibalas
-              akan saya balas lewat email. Happy Reading dan semoga harimu dipenuhi hormon dopamin.
+             Saat ini saya sedang menjalani perkuliahan di Universita Prima Indonesia, yaitu program studi Sistem Informasi. Passion saya mengarah ke bagian design, tapi kadang dibagian 
+             web development. Mempelajari hal-hal baru dan menarik seperti design adalah hobi saya, intinya tetap berkarya and stay humble.
             </p>
           </div>
         </div>
@@ -94,24 +94,19 @@
       <div class="container">
         <div class="row text-center mb-3 fst-italic text-light">
           <div class="col">
-            <h2>My Story</h2>
+            <h2>Hasil Belajar</h2>
           </div>
         </div>
         <div class="row">
           <div class="col-md-4 mb-3">
             <div class="card" data-aos="flip-left" data-aos-duration="500">
-              <img src="img/projects/A.jpg" class="card-img-top" alt="Project 1" />
+              <img src="img/projects/D.png" class="card-img-top" alt="Project 1" />
               <div class="card-body">
-                <h6 class="card-title text-end font-monospace">01-04-22</h6>
-                <h5 class="card-title text-center">Embun dan Takdir</h5>
+            
+                <h2 class="card-title text-center">Logo organisasi pemuda sebuah gereja</h2>
 
                 <p class="card-text">
-                  Apakah kamu percaya bahwa embun itu ditarik oleh bumi untuk jatuh ke pelukannya? itulah pertanyaan yang ada dalam kepala seorang pemuda yang baru saja pulang dari kebun. Selama perjalanan pulang pertanyaan itulah yang
-                  mengiringi langkahnya, dia memiliki pemikiran jika bumi lah yang menarik embun itu untuk jatuh. Lalu apa hubungannya denganku? dia bertanya pada otak kecilnya sembari menggerakkan dahi dan bibirnya ke arah bawah. Atau
-                  apakah dunia ini ada dalam dua sisi, yang artinya ketika kita berada dalam gelap maka terang akan berusaha menarik kita, ketika kita berada dalam kebaikan maka kejahatan akan selalu berusaha menggoda kita? Pernyataan lain,
-                  ketika kita cantik/tampan maka jelek akan selalu menanti kita di depan mata, ketika bodoh maka pintar selalu menunggu kita ? pemuda itu pun menghentikan langkahnya sejenak lalu menatap langit sambil mendengar ocehan bodoh
-                  otaknya. "ahhh bukankah manusia bisa memilih sebuah keputusan yang terbaik bagi dirinya sendiri ? Tapi bagaimana dengan embun yang hampir jatuh tadi, apakah dia bisa memilih untuk tidak jatuh? atau itu yang disebut dengan
-                  takdir? " otak pemuda itu pun tiba-tiba berhenti karna keingat makan kwkwk. Konon katanya pertanyaan itu masih dia pertanyakan sampai hari ini.
+              
                 </p>
               </div>
             </div>
@@ -120,38 +115,20 @@
         <div class="row">
           <div class="col-md-4 mb-3">
             <div class="card" data-aos="flip-left" data-aos-duration="500">
-              <img src="img/projects/B.jpg" class="card-img-top" alt="Project 1" />
+              <img src="img/projects/E.jpg" class="card-img-top" alt="Project 1" />
               <div class="card-body">
-                <h6 class="card-title text-end font-monospace">05-04-2022</h6>
-                <h5 class="card-title text-center">Bunga jadi buah? kok bisa..</h5>
+            
+                <h2 class="card-title text-center">Karya lama yang masih melekat di hati</h2>
 
                 <p class="card-text">
-                  Siapa yang mengubah ribuan bunga menjadi buah setiap harinya. Lalu denngan sombong lebah madu menjawab "tentu aku dong" kemudian kupu-kupu menyahut tak mau kalah " bukan hanya lebah, kami adalah dalang dibaliknya"
-                  sahutnya. Kemudian angin tidak mau kalah dengan berhembus sepoi-sepoi mencoba menunjukkan bahwa ia juga berpengaruh. Kemudian sang bunga berkata dengan suara yang lantang, "sesungguhnya aku telah melihat pekerjaan tangan
-                  penciptamu dan penciptaku bekerja didalam aku". kemudian keadaan menjadi hening sehening beranda chatmu wkwkw. begitulah kehidupan didunia ini, manusia berlomba ke puncak agar dilihat dan diakui oleh orang lain.padahal
-                  ketika mereka dipuncak, orang yang dibawah akan melihat mereka kecil. Jadi tetaplah rendah hati dan lakukan yang terbaik sesuai dengan citra yang diberi Tuhan padamu.
+              
                 </p>
               </div>
             </div>
           </div>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-md-4 mb-3">
-          <div class="card" data-aos="flip-left" data-aos-duration="500">
-            <img src="img/projects/C.jpg" class="card-img-top" alt="Project 1" />
-            <div class="card-body">
-              <h6 class="card-title text-end font-monospace">23-04-2022</h6>
-              <h5 class="card-title text-center">Menjaga dan Mensyukuri Titipan Tuhan</h5>
 
-              <p class="card-text">
-                Ketika mengambil gambar ini di kebun, saya bertanya-tanya... Apakah burung kutilang pernah insyecure melihat telur elang ? Trus pertanyaan itu pun berlanjut,
-                lahhh kalo kutilang insyecure melihat telur elang, gimana dengan elang ketika melihat telur angsa ? Begitulah pertanyaan itu tak akan ada habisnya ketika kita selalu 
-                membandingkan kearah yang lebih dan lebih. Sama halnya dengan apa yang kita miliki saat ini, baik materi maupun yang lainnya, syukuri setiap apa yang kamu miliki
-                dengan tetap berproses dan jangan lupa tetap rendah dan kaya hati.. gampang kali membilangkan yaaa, melakukan agak agak wkwkwk
-              </p>
-            </div>
-          </div>
+
         </div>
       </div>
     </div>
