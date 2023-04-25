@@ -1,0 +1,5 @@
+print("Dear [Lestari Silitonga],\n")
+print("Aku hanya ingin sejenak memberitahumu betapa besar cintaku padamu. Kamu adalah orang yang paling luar biasa yang pernah aku temui, dan aku merasa sangat beruntung bisa memiliki kamu dalam hidupku.\n")
+print("Aku mencintaimu lebih dari kata-kata yang dapat diungkapkan dan aku berjanji untuk selalu menghargai dan mendukungmu.\n")
+print("Selalu dan selamanya,")
+print("[Laban]")
